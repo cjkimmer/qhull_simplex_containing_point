@@ -2,9 +2,6 @@
 #include <random>
 #include <vector>
 
-//#include "libqhullcpp/RboxPoints.h"
-
-// for nice cpp-style stuff
 #include "libqhullcpp/QhullFacet.h"
 #include "libqhullcpp/QhullFacetList.h"
 #include "libqhullcpp/QhullPoints.h"
